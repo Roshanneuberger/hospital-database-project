@@ -33,7 +33,7 @@ CREATE TABLE patient (
     UNIQUE KEY uk_patient_email (email)
 );
 
--- 4. Diagnosis Table (condition renamed - MySQL reserved keyword)
+-- 4. Diagnosis Table 
 CREATE TABLE diagnosis (
     diagnosis_id VARCHAR(10) PRIMARY KEY,
     diagnosis_condition VARCHAR(100) NOT NULL,
