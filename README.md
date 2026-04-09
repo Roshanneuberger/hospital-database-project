@@ -47,7 +47,7 @@ text
 │ ├── 04_select_joins.sql # 3-5 table JOINs
 │ └── 05_advanced_queries.sql # GROUP BY, subqueries
 └── er-diagram/
-└── DBML-format-updated.jpg # Complete ER diagram
+└── er-diagram:DBML-format-updated.jpg # Complete ER diagram
 
 text
 
